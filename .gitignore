@@ -8,6 +8,7 @@
 !*.7z
 !*.csv
 !*.ks
+!*.tjs
 !.gitignore
 !srp.pac
 !README.md
