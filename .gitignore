@@ -9,6 +9,7 @@
 !*.csv
 !*.ks
 !*.tjs
+!mako_patch2.xp3
 !.gitignore
 !srp.pac
 !README.md
